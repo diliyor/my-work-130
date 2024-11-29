@@ -1,0 +1,12 @@
+body {background-color: burlywood;}
+.q1 {border: 2px solid red;
+width: 700px; height: 350px;
+margin: 150px;
+background-color: red;}
+.q2 {background-color: white;
+border: 2px solid white;
+height: 266px;
+padding-left: 30px;
+}
+h1 {color: white;
+padding-left: 290px;}
